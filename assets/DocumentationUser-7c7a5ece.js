@@ -1,0 +1,1 @@
+import{y as o,o as s,a,h as n,u as e,U as r}from"./index-31940e83.js";const c={class:"user"},m={__name:"DocumentationUser",setup(u){const t=o();return(_,d)=>(s(),a("div",c,[n(e(r),{baseURL:`/generated/${e(t).current_documentation_version}/user`,pageNotFoundName:"NotFound"},null,8,["baseURL"])]))}};export{m as default};
