@@ -1,0 +1,1 @@
+import{y as t,a,h as n,u as e,o as s,E as r}from"./index-DBQDfDii.js";const c={class:"doxygen"},p={__name:"DoxygenAPI",setup(u){const o=t();return(_,d)=>(s(),a("div",c,[n(e(r),{baseURL:`/generated/${e(o).current_documentation_version}/api`,pageNotFoundName:"NotFound"},null,8,["baseURL"])]))}};export{p as default};
