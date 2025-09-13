@@ -1,0 +1,1 @@
+import{e as t}from"./index-DyZPUR1G.js";const n={__name:"Text",props:{node:{type:void 0,default:null},componentName:{type:String},properties:{type:Object,required:!0}},setup(e){return(p,r)=>t(e.properties.text)}};export{n as default};
