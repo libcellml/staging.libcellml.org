@@ -1,0 +1,1 @@
+import{y as o,a as t,h as r,i as e,B as n,C as c,o as u,z as i}from"./index-Ch7Pi2nU.js";const d={__name:"SphinxDocsWithVersion",setup(_){const a=o(),s=c();return(m,p)=>(u(),t("div",{class:n(e(s).params.subDoc)},[r(e(i),{baseURL:`/generated/${e(a).current_documentation_version}/${e(s).params.subDoc}`,pageNotFoundName:"NotFound"},null,8,["baseURL"])],2))}};export{d as default};

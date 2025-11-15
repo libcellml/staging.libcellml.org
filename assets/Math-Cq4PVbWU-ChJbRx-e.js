@@ -1,0 +1,1 @@
+import{k as o,n,o as r}from"./index-Ch7Pi2nU.js";const l={__name:"Math",props:{node:{type:void 0,default:null},componentName:{type:String},properties:{type:Object}},setup(e){return(p,s)=>{const t=o("katex-element");return r(),n(t,{expression:e.node.textContent},null,8,["expression"])}}};export{l as default};
