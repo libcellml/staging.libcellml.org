@@ -1,0 +1,1 @@
+import{o as s,a as o,g as t,u as e,z as n,B as r,C as c}from"./index-C-9RTAge.js";const p={__name:"SphinxDocsSansVersion",setup(u){const a=c();return(l,m)=>(s(),o("div",{class:r(e(a).meta.subDoc)},[t(e(n),{baseURL:`/generated/${e(a).meta.subDoc}`,pageNotFoundName:"NotFound"},null,8,["baseURL"])],2))}};export{p as default};

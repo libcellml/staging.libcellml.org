@@ -1,0 +1,1 @@
+import{k as o,o as n,n as r}from"./index-C-9RTAge.js";const l={__name:"Math",props:{node:{type:void 0,default:null},componentName:{type:String},properties:{type:Object}},setup(e){return(p,s)=>{const t=o("katex-element");return n(),r(t,{expression:e.node.textContent},null,8,["expression"])}}};export{l as default};
