@@ -1,0 +1,1 @@
+import{y as o,a as s,g as a,u as e,o as r,z as n}from"./index-Df5ZNq5O.js";const c={class:"user"},m={__name:"DocumentationUser",setup(u){const t=o();return(_,d)=>(r(),s("div",c,[a(e(n),{baseURL:`/generated/${e(t).current_documentation_version}/user`,pageNotFoundName:"NotFound"},null,8,["baseURL"])]))}};export{m as default};
