@@ -1,0 +1,1 @@
+import{y as t,c as s,g as a,u as e,o as n,A as r}from"./index-VWVW1fQr.js";const c={class:"doxygen"},l={__name:"DoxygenAPI",setup(u){const o=t();return(_,d)=>(n(),s("div",c,[a(e(r),{baseURL:`/generated/${e(o).current_documentation_version}/api`,pageNotFoundName:"NotFound"},null,8,["baseURL"])]))}};export{l as default};
