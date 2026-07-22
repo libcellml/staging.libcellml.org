@@ -1,0 +1,1 @@
+import{o as s,c as o,g as t,u as e,z as n,B as c,C as r}from"./index-Duzp52E6.js";const _={__name:"SphinxDocsSansVersion",setup(u){const a=r();return(l,m)=>(s(),o("div",{class:c(e(a).meta.subDoc)},[t(e(n),{baseURL:`/generated/${e(a).meta.subDoc}`,pageNotFoundName:"NotFound"},null,8,["baseURL"])],2))}};export{_ as default};

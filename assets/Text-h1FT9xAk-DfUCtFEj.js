@@ -1,0 +1,1 @@
+import{d as t}from"./index-Duzp52E6.js";var n={__name:"Text",props:{node:{type:void 0,default:null},componentName:{type:String},properties:{type:Object,required:!0}},setup(e){return(r,p)=>t(e.properties.text)}};export{n as default};
