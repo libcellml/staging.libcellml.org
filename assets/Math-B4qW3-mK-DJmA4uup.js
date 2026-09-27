@@ -1,0 +1,1 @@
+import{St as e,mt as t,v as n}from"./runtime-core.esm-bundler-B0q2qopf.js";var r={__name:`Math`,props:{node:{type:void 0,default:null},componentName:{type:String},properties:{type:Object}},setup(r){return(i,a)=>{let o=e(`katex-element`);return t(),n(o,{expression:r.node.textContent},null,8,[`expression`])}}};export{r as default};

@@ -1,0 +1,1 @@
+import{b as e,mt as t}from"./runtime-core.esm-bundler-B0q2qopf.js";import{o as n}from"./VRow-D4JD3QlH.js";var r={},i={class:`small-padding`};function a(n,r){return t(),e(`span`,i)}var o=n(r,[[`render`,a],[`__scopeId`,`data-v-c9da3952`]]);export{o as t};

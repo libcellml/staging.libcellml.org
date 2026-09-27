@@ -1,0 +1,1 @@
+import{B as e}from"./runtime-core.esm-bundler-B0q2qopf.js";var t={name:`Transition`,render(){return e(`hr`,{class:[`docutils`]})}};export{t as default};

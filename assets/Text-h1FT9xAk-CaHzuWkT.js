@@ -1,0 +1,1 @@
+import{B as e}from"./shared.esm-bundler-HaFz6HTO.js";var t={__name:`Text`,props:{node:{type:void 0,default:null},componentName:{type:String},properties:{type:Object,required:!0}},setup(t){return(n,r)=>e(t.properties.text)}};export{t as default};

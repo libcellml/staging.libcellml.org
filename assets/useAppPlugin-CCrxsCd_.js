@@ -1,0 +1,1 @@
+import{L as e}from"./runtime-core.esm-bundler-B0q2qopf.js";var t=new WeakMap;function n(n,r){let i=e()?.appContext.app;if(!i)throw Error(`useAppPlugin() must be called inside a component setup().`);let a=t.get(i);a||(a=new WeakSet,t.set(i,a)),a.has(n)||(a.add(n),i.use(n,r))}export{n as t};
