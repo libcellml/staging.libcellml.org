@@ -1,0 +1,1 @@
+var e={__name:`Skip`,props:{node:{type:void 0,default:null},componentName:{type:String}},setup(e){return(e,t)=>null}};export{e as default};

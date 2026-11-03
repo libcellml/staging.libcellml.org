@@ -1,0 +1,1 @@
+import{B as e}from"./runtime-core.esm-bundler-etUfL-ip.js";var t={name:`Transition`,render(){return e(`hr`,{class:[`docutils`]})}};export{t as default};
